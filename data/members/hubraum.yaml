@@ -48,8 +48,12 @@ social:
 # to keep the attribution a from/till data range can be included.
 representatives:
   - name: Wojciech Pawlak
-    role: Technology Expert
+    role: Architecture Expert
     social:
       twitter: 
       linkedin: https://www.linkedin.com/in/wpawlak/
-    description: Wojciech is the Technology Expert at hubraum - technology incubator of Deutsche Telekom Group and represents the organization at the PKI Consortium.
+    description: 
+      Wojciech is the Architecture Expert at hubraum - technology incubator of Deutsche Telekom Group and part of company's R&D branch.
+      He has an educational background in telecommunication resulted in more than 25 years of professional experience in telco industry and extended by postgraduate study in cybersecurity management.
+      Wojciech leads the acceleration and prototyping programs that leverage the emerging telco technologies. Also establishes multi-entity teams applying for public funding of their research.
+      Main areas of his interests are 5G/6G, Quantum Communication and PQC.
